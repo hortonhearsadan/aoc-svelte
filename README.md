@@ -1,6 +1,6 @@
 # aoc-svelte
 
-Attemping AoC visualisations using svelt, tailwindcss and daisy UI
+Attemping AoC visualisations using Sveltekit, tailwindcss and daisy UI
 
 
 ```bash
