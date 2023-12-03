@@ -2,7 +2,6 @@
 
 Attemping AoC visualisations using Sveltekit, tailwindcss and daisy UI
 
-
 ```bash
 npm install
 npm run dev
